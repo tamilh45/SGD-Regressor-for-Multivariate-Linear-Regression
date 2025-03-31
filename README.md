@@ -33,6 +33,7 @@ Developed by: Tamil Pavalan M
 RegisterNumber:  212223110058
 */
 ```
+```
 import numpy as np
 import pandas as pd
 from sklearn.datasets import fetch_california_housing
